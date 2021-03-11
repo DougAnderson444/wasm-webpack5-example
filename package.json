@@ -1,7 +1,7 @@
 {
-  "author": "You <you@example.com>",
-  "name": "rust-webpack-template",
-  "version": "0.1.0",
+  "author": "Doug <douganderson444@gmail.com>",
+  "name": "wasm-webpack5-example",
+  "version": "0.1.1",
   "scripts": {
     "build": "rimraf dist pkg && webpack",
     "start": "rimraf dist pkg && webpack serve --open",
@@ -11,7 +11,7 @@
     "@wasm-tool/wasm-pack-plugin": "^1.1.0",
     "copy-webpack-plugin": "^5.0.3",
     "rimraf": "^3.0.0",
-    "webpack": "^5.24.4",
+    "webpack": "~5.24.4",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.7.1"
   },
@@ -21,5 +21,7 @@
     "webpack5",
     "webpack 5",
     "example"
-  ]
+  ],
+  "repository": "https://github.com/DougAnderson444/wasm-webpack5-example",
+  "license": "MIT"
 }

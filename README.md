@@ -1,3 +1,7 @@
+# wasm usign webpack 5
+
+How to integrate webassembly with webpack 5.
+
 ## How to install
 
 ```sh

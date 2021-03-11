@@ -2,6 +2,11 @@
 
 How to integrate webassembly with [webpack 5](https://webpack.js.org/migrate/5/).
 
+
+Lots of good examples here:
+
+[https://github.com/rustwasm/wasm-bindgen/tree/master/examples](https://github.com/rustwasm/wasm-bindgen/tree/master/examples)
+
 ## How to install
 
 ```sh
